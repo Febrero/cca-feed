@@ -7,8 +7,10 @@ Merchant Center. Standard library only, so it runs the same locally and on GitHu
   python build_feed.py [out.xml]
 """
 import concurrent.futures as cf
+import csv
 import html
 import json
+import os
 import re
 import sys
 import time
@@ -27,11 +29,20 @@ SMALL = {"a", "o", "as", "os", "e", "de", "da", "do", "das", "dos", "em", "na", 
          "para", "com", "um", "uma", "ao", "à", "aos", "às", "the", "of", "and", "la", "le", "les", "el", "y", "du", "des"}
 
 
+PAUSA = 0.5          # between requests per worker: 6 fast workers tripped SITE123's bot wall on 2026-10-21
+MINIMO_ITENS = 700   # the published feed has ~936 items; a much smaller result means pages did not answer
+
+
 def get(url, tries=3):
     for i in range(tries):
         try:
+            time.sleep(PAUSA)
             with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=40) as r:
-                return r.read().decode("utf-8", "replace")
+                body = r.read().decode("utf-8", "replace")
+            if "<title>Human Verification</title>" in body:  # AWS WAF challenge: back off and try again
+                time.sleep(120)
+                continue
+            return body
         except Exception:  # noqa: BLE001
             if i == tries - 1:
                 return None
@@ -88,6 +99,7 @@ def parse(url):
     is_art = not sku.lower().startswith("l-")  # books are coded l-…, art objects p-/o-/…
     return {
         "id": sku or re.sub(r"\W+", "-", url.rsplit("/", 1)[-1])[:50],
+        "name": re.sub(r"\s+", " ", html.unescape(prod.get("name", ""))).strip(),
         "title": nice_title(re.sub(r"\s+", " ", html.unescape(prod.get("name", ""))).strip())[:150],
         "description": re.sub(r"\s*\n\s*", " · ", html.unescape(prod.get("description", "")).strip())[:5000],
         "link": html.unescape(canon.group(1)) if canon else url.split("?")[0],
@@ -113,7 +125,7 @@ def item_xml(p):
 def main():
     out = sys.argv[1] if len(sys.argv) > 1 else "feed.xml"
     urls = product_urls()
-    with cf.ThreadPoolExecutor(6) as ex:
+    with cf.ThreadPoolExecutor(2) as ex:
         res = list(ex.map(parse, urls))
     # SITE123 times out under parallel load: retry the pages that did not answer, slowly
     for attempt in range(2):
@@ -126,12 +138,22 @@ def main():
             res += list(ex.map(parse, failed))
     unread = sum(1 for r in res if r and "failed" in r)
     found = [r for r in res if r and "failed" not in r]
+    # every product read, sold ones included, for the catalogue work sheets (catalogo.csv beside the feed)
+    with open(os.path.join(os.path.dirname(os.path.abspath(out)), "catalogo.csv"), "w", encoding="utf-8-sig", newline="") as f:
+        w = csv.writer(f, delimiter=";")
+        w.writerow(["id", "nome", "titulo", "preco", "a_venda", "tipo", "link", "imagem", "descricao"])
+        for p in found:
+            w.writerow([p["id"], p["name"], p["title"], f"{p['price']:.2f}", "sim" if p["price"] > 0 and p["in_stock"] else "não",
+                        p["kind"], p["link"], p["image"], p["description"]])
     seen, items = set(), []
     for p in found:
         if p["price"] <= 0 or not p["in_stock"] or not p["image"] or p["id"] in seen:
             continue  # sold (price 0), out of stock, no photo, or the same product under another URL
         seen.add(p["id"])
         items.append(p)
+    if len(items) < MINIMO_ITENS:
+        sys.exit(f"only {len(items)} items for sale found ({len(urls)} URLs, {unread} unanswered): "
+                 f"feed NOT written, the published one stays")
     with open(out, "w", encoding="utf-8") as f:
         f.write('<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">\n'
                 f"<channel>\n  <title>C C A · Caramulo com Arte</title>\n  <link>{SITE}</link>\n"

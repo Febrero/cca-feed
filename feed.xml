@@ -7286,7 +7286,7 @@
     <g:link>https://www.caramulocom.art/e-commerce/cabide-infantil-a</g:link>
     <g:image_link>https://images.cdn-files-a.com/uploads/5474177/800_62d3c24154434.jpg</g:image_link>
     <g:availability>in_stock</g:availability>
-    <g:price>35.00 EUR</g:price>
+    <g:price>37.00 EUR</g:price>
     <g:condition>used</g:condition>
     <g:identifier_exists>no</g:identifier_exists>
     <g:product_type>Arte</g:product_type>
@@ -7740,11 +7740,11 @@
   <item>
     <g:id>p-30775</g:id>
     <g:title>Histoire Naturelle, Mineralogie (Alpes)</g:title>
-    <g:description>Histoire Naturelle, Mineralogie    (Alpes) · água-forte dupla</g:description>
+    <g:description>Histoire Naturelle, Mineralogie    (Alpes) · água-forte dupla emoldurada</g:description>
     <g:link>https://www.caramulocom.art/e-commerce/histoire-naturelle-mineralogie-alpes</g:link>
     <g:image_link>https://images.cdn-files-a.com/uploads/5474177/800_62ebbafd56f5e.jpg</g:image_link>
     <g:availability>in_stock</g:availability>
-    <g:price>287.00 EUR</g:price>
+    <g:price>317.00 EUR</g:price>
     <g:condition>used</g:condition>
     <g:identifier_exists>no</g:identifier_exists>
     <g:product_type>Arte</g:product_type>
@@ -7752,11 +7752,11 @@
   <item>
     <g:id>p-30591</g:id>
     <g:title>Histoire Naturelle, Mineralogie (Volcans)</g:title>
-    <g:description>Histoire Naturelle, Mineralogie    (Volcans) · água-forte dupla</g:description>
+    <g:description>Histoire Naturelle, Mineralogie    (Volcans) · água-forte dupla emoldurada</g:description>
     <g:link>https://www.caramulocom.art/e-commerce/histoire-naturelle-mineralogie-volcans</g:link>
     <g:image_link>https://images.cdn-files-a.com/uploads/5474177/800_62ebbe2db5db7.jpg</g:image_link>
     <g:availability>in_stock</g:availability>
-    <g:price>287.00 EUR</g:price>
+    <g:price>317.00 EUR</g:price>
     <g:condition>used</g:condition>
     <g:identifier_exists>no</g:identifier_exists>
     <g:product_type>Arte</g:product_type>
@@ -11078,19 +11078,6 @@
     <g:google_product_category>784</g:google_product_category>
   </item>
   <item>
-    <g:id>l-1002339</g:id>
-    <g:title>Aavv (Marques, A. H. de Oliveira – coord.), A Revolução de 31 de Janeiro de 1891</g:title>
-    <g:description>AAVV (Marques, A. H. de Oliveira – coord.) · A REVOLUÇÃO DE 31 DE JANEIRO DE 1891, Biblioteca Nacional, Lisboa, 1991.</g:description>
-    <g:link>https://www.caramulocom.art/e-commerce/aavv-marques-a-h-de-oliveira-coord-a-revolu%C3%87%C3%83o-de-31-de-janeiro-de-1891</g:link>
-    <g:image_link>https://images.cdn-files-a.com/uploads/5474177/800_6498509a08eac.jpg</g:image_link>
-    <g:availability>in_stock</g:availability>
-    <g:price>10.50 EUR</g:price>
-    <g:condition>used</g:condition>
-    <g:identifier_exists>no</g:identifier_exists>
-    <g:product_type>Livros</g:product_type>
-    <g:google_product_category>784</g:google_product_category>
-  </item>
-  <item>
     <g:id>l-1002340</g:id>
     <g:title>Reparaz, Gonçalo de, os Portugueses no Vice-reinado do Peru (séculos XVI E Xvii)</g:title>
     <g:description>Reparaz, Gonçalo de · OS PORTUGUESES NO VICE-REINADO DO PERU (SÉCULOS XVI E XVII), Instituto de Alta Cultura, Lisboa, MCMLXXVI  [1976].</g:description>
@@ -12099,6 +12086,1224 @@
     <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_68d3f199ba2c5.jpg</g:image_link>
     <g:availability>in_stock</g:availability>
     <g:price>24.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1001068</g:id>
+    <g:title>Saint-Maurice, Odette de, os Amigos</g:title>
+    <g:description>Saint-Maurice, Odette de · OS AMIGOS, Editorial Presença, Lisboa, s.d.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/saint-maurice-odette-de-os-amigos</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_66ec70d38b69e.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>11.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1007251</g:id>
+    <g:title>Dumas, Alexandre, os Três Mosqueteiros</g:title>
+    <g:description>Dumas, Alexandre · OS TRÊS MOSQUETEIROS, Planeta de Agostini, Lisboa, 2004.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/dumas-alexandre-os-tr%C3%8As-mosqueteiros</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_66f1b235f2ad0.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>13.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1001377</g:id>
+    <g:title>Santos, Mª Leonor Ferraz de Oliveira Silva, O Domínio de Santa Maria do Lorvão no Século XIV</g:title>
+    <g:description>Santos, Mª Leonor Ferraz de Oliveira Silva · O DOMÍNIO DE SANTA MARIA DO LORVÃO NO SÉCULO XIV, Imprensa Nacional-Casa da Moeda, Lisboa, 2002.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/santos-m%C2%AA-leonor-ferraz-de-oliveira-silva-o-dom%C3%8Dnio-de-santa-maria-do-lorv%C3%83o-no-s%C3%89culo-xiv</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_66f1b3f61929c.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>17.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1002925</g:id>
+    <g:title>Freirii, Paschalis Josephi Mellii, Institutionum Juris Civilis Lusitani</g:title>
+    <g:description>Freirii, Paschalis Josephi Mellii · INSTITUTIONUM JURIS CIVILIS LUSITANI cum Publici, tum Privati Jussu Acad. Reg. Scientiarum in lucem editus, Liber I, II, ex Typographia Regalis Academiae, Olisipone,  MDCCXCVII  [1797].</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/freirii-paschalis-josephi-mellii-institutionum-juris-civilis-lusitani</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_66fc8bc0d6f49.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>155.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1003156</g:id>
+    <g:title>A./aa não indicados, Dicionário Francês-português</g:title>
+    <g:description>A./AA não indicados · DICIONÁRIO FRANCÊS-PORTUGUÊS Etimológico, Prosódico e Ortográfico, Editora Paulo de Azevedo/ Livraria Bertrand, Rio de Janeiro/ Lisboa, s.d.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/a-aa-n%C3%A3o-indicados-dicion%C3%81rio-franc%C3%8As-portugu%C3%8As</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_66fc8e82e0a35.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>17.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1007144</g:id>
+    <g:title>Viana, Antº Manuel Couto (org.), Tesouros da Literatura Popular Portuguesa</g:title>
+    <g:description>Viana, Antº Manuel Couto (org.) · TESOUROS DA LITERATURA POPULAR PORTUGUESA, Editorial Verbo, Lisboa/ S. Paulo, 2004.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/viana-ant%C2%BA-manuel-couto-org-tesouros-da-literatura-popular-portuguesa</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_66fe83ff35762.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>31.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1002174</g:id>
+    <g:title>Lima, Jozé Garcia/ Lima, Francisco Garcia, Petiçaõ de Revista de Jozé Garcia de Lima E Francisco Garcia de Lima, em Causa com A Real Fazenda</g:title>
+    <g:description>Lima, Jozé Garcia/ Lima, Francisco Garcia · PETIÇAÕ DE REVISTA DE JOZÉ GARCIA DE LIMA E FRANCISCO GARCIA DE LIMA, EM CAUSA COM A REAL FAZENDA, Officina de Manoel Fernandes da Costa, Impressor do Santo Officio, Lisboa Occidental,  M.DCCXXXIV  [1734].</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/lima-joz%C3%A9-garcia-lima-francisco-garcia-peti%C3%87a%C3%95-de-revista-de-joz%C3%89-garcia-de-lima-e-francisco-garcia-de-lima-em-causa-com-a-real-fazenda</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_670fcff8c7cbd.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>190.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1002217</g:id>
+    <g:title>Kristeva, Julia, Time and Sense – Proust and the Experience of Literature</g:title>
+    <g:description>Kristeva, Julia · TIME AND SENSE – Proust and the Experience of Literature, Columbia University Press, New York, 1996.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/kristeva-julia-time-and-sense-proust-and-the-experience-of-literature</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_67715be1bba89.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>30.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1005522</g:id>
+    <g:title>Peirce, Charles S., Antologia Filosófica</g:title>
+    <g:description>Peirce, Charles S. · ANTOLOGIA FILOSÓFICA, Imprensa Nacional-Casa da Moeda, s.l., 1998.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/peirce-charles-s-antologia-filos%C3%93fica</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_67715ccfb6273.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>17.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1001406</g:id>
+    <g:title>Blanchot, Maurice, O Livro por Vir</g:title>
+    <g:description>Blanchot, Maurice · O LIVRO POR VIR, Martins Fortes, São Paulo, 2005.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/blanchot-maurice-o-livro-por-vir</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_67715db4d54c8.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>25.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-100116</g:id>
+    <g:title>Gide, André, Journal des Faux-monnayeurs</g:title>
+    <g:description>Gide, André · JOURNAL DES FAUX-MONNAYEURS, Gallimard, s.l., 2002.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/gide-andr%C3%A9-journal-des-faux-monnayeurs</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6773ede08f981.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>10.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1001003</g:id>
+    <g:title>Phillips, Roderick, Desfazer O Nó</g:title>
+    <g:description>Phillips, Roderick · DESFAZER O NÓ, Breve História do Divórcio, Terramar, Lisboa, 1996.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/phillips-roderick-desfazer-o-n%C3%93</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6773efe524b4e.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>12.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1006531</g:id>
+    <g:title>Sérgio, Antº (ed.)/ Aavv, O Desejado</g:title>
+    <g:description>Sérgio, Antº (ed.)/ AAVV · O DESEJADO, Livrarias Aillaud e Bertrand, Paris-Lisboa, 1924.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/s%C3%A9rgio-ant%C2%BA-ed-aavv-o-desejado</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_67771667c0ca7.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>38.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-100854</g:id>
+    <g:title>Vidigal, Ana et alii, Ana Vidigal</g:title>
+    <g:description>Vidigal, Ana et alii · ANA VIDIGAL, Assírio &amp; Alvim, Lisboa, 2003.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/vidigal-ana-et-alii-ana-vidigal</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6779d1a441fd3.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>45.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1009726</g:id>
+    <g:title>Aavv (Ramos, Joaquim Moura), Reticências – Ilustração E Banda Desenhada no Ar.co</g:title>
+    <g:description>AAVV  (Ramos, Joaquim Moura) · RETICÊNCIAS – ILUSTRAÇÃO E BANDA DESENHADA NO AR.CO, IST Press, Lisboa, 2008.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/aavv-ramos-joaquim-moura-retic%C3%8Ancias-ilustra%C3%87%C3%83o-e-banda-desenhada-no-arco</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6779dc16dbbc2.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>10.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-100357</g:id>
+    <g:title>Sabugosa, conde de, Bôbos na Côrte</g:title>
+    <g:description>Sabugosa, conde de · BÔBOS NA CÔRTE, Portugália Editora, Lisboa, 1923.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/sabugosa-conde-de-b%C3%94bos-na-c%C3%94rte</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_677dddaf790d9.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>72.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-100L277</g:id>
+    <g:title>Rasquilho, Rui/ Barros, Jorge, Portugal E O Mar</g:title>
+    <g:description>Rasquilho, Rui/ Barros, Jorge · PORTUGAL E O MAR, Círculo de Leitores, s.l., 1983.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/rasquilho-rui-barros-jorge-portugal-e-o-mar</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6782e73b82655.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>20.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1008326</g:id>
+    <g:title>Castro, Augusto de, Imagens da Europa</g:title>
+    <g:description>Castro, Augusto de · IMAGENS DA EUROPA Vistas da Minha Janela, Emprêsa Nacional de Publicidade, Lisboa. 1936.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/castro-augusto-de-imagens-da-europa</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6782ef543232e.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>21.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>naquet-a-hanriot-m-principes-de-chimie</g:id>
+    <g:title>Naquet, A/ Hanriot, M., Principes de Chimie</g:title>
+    <g:description>Naquet, A/ Hanriot, M. · PRINCIPES DE CHIMIE Fondée sur les Théories Modernes, 2 v., Librairie F. Savy, Paris, 1885.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/naquet-a-hanriot-m-principes-de-chimie</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6782f67bcc4c9.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>48.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Arte</g:product_type>
+  </item>
+  <item>
+    <g:id>l-1008677</g:id>
+    <g:title>Case, Jonathan, the New Deal</g:title>
+    <g:description>Case, Jonathan · THE NEW DEAL, Levoir/ Público, s.l., 2020.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/case-jonathan-the-new-deal</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6785bb790d537.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>12.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1002393</g:id>
+    <g:title>Giroud/ Dethorey, Luís Má Sorte – Charleston</g:title>
+    <g:description>Giroud/ Dethorey · LUÍS MÁ SORTE – CHARLESTON, Meribérica/ Liber Editores, Lisboa, 1989.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/giroud-dethorey-lu%C3%8Ds-m%C3%81-sorte-charleston</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6785c187b8bb6.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>7.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-100465</g:id>
+    <g:title>Oliveira, André et alii, Milagreiro</g:title>
+    <g:description>Oliveira, André et alii · MILAGREIRO, Polvo-Rui Brito Ediçºoes e Autores, Lisboa, 2015.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/oliveira-andr%C3%A9-et-alii-milagreiro</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6785c489bce2d.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>14.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1008147</g:id>
+    <g:title>Fresenius, R., Traité D’ Analyse Chimique Qualitative</g:title>
+    <g:description>Fresenius, R. · TRAITÉ D’ ANALYSE CHIMIQUE QUALITATIVE, Librairie F. Savy, Paris, 1885.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/fresenius-r-trait%C3%89-d-analyse-chimique-qualitative</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_678b97afa146d.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>35.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-100553</g:id>
+    <g:title>Gulbenkian (ed.), Pintura</g:title>
+    <g:description>Gulbenkian (ed.) · PINTURA, Fundação Calouste Gulbenkian, Lisboa, 2008.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/gulbenkian-ed-pintura</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_678b9a4f72be5.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>48.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1015752</g:id>
+    <g:title>Lopes, A. Cardoso/ Correia, Raul, O Mosquito</g:title>
+    <g:description>Lopes, A. Cardoso/ Correia, Raul · O MOSQUITO, Edições »O Mosquito», Lisboa, 1945.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/lopes-a-cardoso-correia-raul-o-mosquito</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6790eab7f1328.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>15.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1008148</g:id>
+    <g:title>Troost, L., Traité Élémentaire de Chimie</g:title>
+    <g:description>Troost, L. · TRAITÉ ÉLÉMENTAIRE DE CHIMIE, G. Masson Éditeur, Paris,  MDCCCLXXXVII  [1887].</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/troost-l-trait%C3%89-%C3%89l%C3%89mentaire-de-chimie</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_678d18644f964.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>39.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1025752</g:id>
+    <g:title>Lopes, A. Cardoso/ Correia, Raul, O Mosquito</g:title>
+    <g:description>Lopes, A. Cardoso/ Correia, Raul · O MOSQUITO, Edições «O Mosquito», Lisboa, 1945.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/lopes-a-cardoso-correia-raul-o-mosquito-1</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6790e40f5aa09.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>47.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1035752</g:id>
+    <g:title>Lopes, A. Cardoso/ Correia, Raul, O Mosquito</g:title>
+    <g:description>Lopes, A. Cardoso/ Correia, Raul · O MOSQUITO, Edições «O Mosquito», Lisboa, 1942 e 1943.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/lopes-a-cardoso-correia-raul-o-mosquito-2</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6790e5ef7098c.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>12.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1045752</g:id>
+    <g:title>Lopes, A. Cardoso/ Correia, Raul, O Mosquito</g:title>
+    <g:description>Lopes, A. Cardoso/ Correia, Raul · O MOSQUITO, Edições »O Mosquito», Lisboa, 1944.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/lopes-a-cardoso-correia-raul-o-mosquito-3</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6790e75a8a563.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>5.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>1006111</g:id>
+    <g:title>Dumas (filho), A Dama das Camélias</g:title>
+    <g:description>Dumas (filho) · A DAMA DAS CAMÉLIAS, Empreza Editora Francisco Pastor, Lisboa, s.d.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/dumas-filho-a-dama-das-cam%C3%89lias</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_67a65ff06707c.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>55.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Arte</g:product_type>
+  </item>
+  <item>
+    <g:id>l-1003228</g:id>
+    <g:title>Costa, Manuel João Garcia Dias da, Dias da Costa, Carvalhos E Garcias de Vila Nova de Famalicão</g:title>
+    <g:description>Costa, Manuel João Garcia Dias da · DIAS DA COSTA, CARVALHOS E GARCIAS DE VILA NOVA DE FAMALICÃO (Subsídios Genealógicos), V. N. de Famalicão, 1983.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/costa-manuel-jo%C3%A3o-garcia-dias-da-dias-da-costa-carvalhos-e-garcias-de-vila-nova-de-famalic%C3%83o</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_67d48fbde889a.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>57.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1003582</g:id>
+    <g:title>Sousa, Manoel de Almeida e (de Lobão), Notas de Uso Pratico, E Criticas</g:title>
+    <g:description>Sousa, Manoel de Almeida e  (de Lobão) · NOTAS DE USO PRATICO, E CRITICAS, Addições, Illustrações e Remissões, 2 t., Impressão Regia, Lisboa, 1816-8.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/sousa-manoel-de-almeida-e-de-lob%C3%A3o-notas-de-uso-pratico-e-criticas</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_67ded97dab496.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>340.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1001227</g:id>
+    <g:title>Rodrigues, M. M. Sarmento (cap.-ten.) et alii, Rio Lima, O Seu Navio E os Seus Herois</g:title>
+    <g:description>Rodrigues, M. M. Sarmento (cap.-ten.) et alii · RIO LIMA, O SEU NAVIO E OS SEUS HEROIS, N.R.P. “Lima”, s.l., 1944.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/rodrigues-m-m-sarmento-cap-ten-et-alii-rio-lima-o-seu-navio-e-os-seus-herois</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_680c9e63a1b98.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>42.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1001719</g:id>
+    <g:title>Assis, Machado de, Dom Casmurro</g:title>
+    <g:description>Assis, Machado de · DOM CASMURRO, Dom Quixote, Alfragide, 2009.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/assis-machado-de-dom-casmurro</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_681b276216754.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>15.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1001720</g:id>
+    <g:title>Campos, Fernando, A Casa do Pó (cart.)</g:title>
+    <g:description>Campos, Fernando · A CASA DO PÓ, Círculo de Leitores, s.l., 2000.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/campos-fernando-a-casa-do-p%C3%93-cart</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_681b29747fdc1.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>17.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1001451</g:id>
+    <g:title>Aavv, Colóquio/ Letras, nº 163</g:title>
+    <g:description>AAVV · COLÓQUIO/ LETRAS, nº 163, Jan.-Abr., Fundação Calouste Gulbenkian, Lisboa, 2003.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/aavv-col%C3%93quio-letras-n%C2%BA-163</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_681b4fd740656.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>11.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1002227</g:id>
+    <g:title>Rodrigues, M. M. Sarmento (cap. de Mar e Guerra), aos Portugueses da Índia</g:title>
+    <g:description>Rodrigues, M. M. Sarmento (cap. de Mar e Guerra) · AOS PORTUGUESES DA ÍNDIA, Agência Geral do Ultramar, s.l., 1954.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/rodrigues-m-m-sarmento-cap-de-mar-e-guerra-aos-portugueses-da-%C3%8Dndia</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_68252280ddeab.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>16.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1001722</g:id>
+    <g:title>Miguéis, José Rodrigues, Nikalai ! Nikalai !</g:title>
+    <g:description>Miguéis, José Rodrigues · NIKALAI ! NIKALAI !, Editorial Estúdios Cor, Lisboa, 1971.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/migu%C3%A9is-jos%C3%A9-rodrigues-nikalai-nikalai</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6841b9582a6a2.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>25.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1004171</g:id>
+    <g:title>Duarte, D./ Dias, J.j Alves; Marques, A.h. de Oliveira (ed.), Livro dos Conselhos de D. Duarte (Livro da Cartuxa)</g:title>
+    <g:description>Duarte, D./ Dias, J.J Alves; Marques, A.H. de Oliveira (ed.) · LIVRO DOS CONSELHOS DE D. DUARTE (Livro da Cartuxa), Editorial Estampa, Lisboa, 1982.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/duarte-d-dias-jj-alves-marques-ah-de-oliveira-ed-livro-dos-conselhos-de-d-duarte-livro-da-cartuxa</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_689725d46d779.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>22.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1001528</g:id>
+    <g:title>Parker, Hershell, Herman Melville, A Biography, Vol.i, 1819-1851</g:title>
+    <g:description>Parker, Hershell · HERMAN MELVILLE, A BIOGRAPHY, VOL.I, 1819-1851, The Johns Hopkins University Press, Baltimore and London, 1996.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/parker-hershell-herman-melville-a-biography-voli-1819-1851</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_686004e5bd53c.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>57.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1001975</g:id>
+    <g:title>Pereira, Duarte Pacheco, Esmeraldo de Situ Orbis</g:title>
+    <g:description>Pereira, Duarte Pacheco · ESMERALDO DE SITU ORBIS, Academia Portuguesa da História, Lisboa,  MCMLIV  [1954].</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/pereira-duarte-pacheco-esmeraldo-de-situ-orbis-1</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_686cf36698745.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>16.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1001783</g:id>
+    <g:title>Coutinho, Luiz Gonçalves, Resumo Orthográfico da Lingua Portugueza</g:title>
+    <g:description>Coutinho, Luiz Gonçalves · RESUMO ORTHOGRÁFICO DA LINGUA PORTUGUEZA, Impressão Regia, Lisboa, 1812.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/coutinho-luiz-gon%C3%A7alves-resumo-orthogr%C3%81fico-da-lingua-portugueza</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_686cfe278020c.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>115.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1004626</g:id>
+    <g:title>Heydecker, Joe J./ Leeb, Johannes, O Julgamento de Nuremberga</g:title>
+    <g:description>Heydecker, Joe J./ Leeb, Johannes · O JULGAMENTO DE NUREMBERGA, Círculo de Leitores, s.l., s.d.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/heydecker-joe-j-leeb-johannes-o-julgamento-de-nuremberga</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_68743d8cda5ac.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>13.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1001463</g:id>
+    <g:title>Zola, Émile, A Taberna</g:title>
+    <g:description>Zola, Émile · A TABERNA (L’ Assommoir), 3 vols., Guimarães Editora, Lisboa, 1915.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/zola-%C3%89mile-a-taberna</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_687440a109651.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>35.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-90B010</g:id>
+    <g:title>Aavv Potpourri – Piano (Meyerbeer, Wagner, Strauss)</g:title>
+    <g:description>AAVV · POTPOURRI – PIANO (Meyerbeer, Wagner, Strauss), C. F. Peters/ Aug. Cranz, Leipzig, Berlin, Wien, s.d.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/aavv-potpourri-piano-meyerbeer-wagner-strauss</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_68938be54c434.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>29.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1003475</g:id>
+    <g:title>Varela, Consuelo/ Aguirre, Isabel, Colombo, A Queda de um Mito</g:title>
+    <g:description>Varela, Consuelo/ Aguirre, Isabel · COLOMBO, A QUEDA DE UM MITO, Caleidoscópio, Casal de Cambra, 2007.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/varela-consuelo-aguirre-isabel-colombo-a-queda-de-um-mito</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_68d3f2a57cdb0.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>18.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1004028</g:id>
+    <g:title>Sornay, P. de, Manuel de la Canne À Sucre</g:title>
+    <g:description>Sornay, P. de · MANUEL DE LA CANNE À SUCRE a L’Usage des Chargés de Cours et des Élèves des Grandes Écoles Coloniales, The General Printing &amp; Stationery Cy., Port-Louis – Île Maurice, 1952.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/sornay-p-de-manuel-de-la-canne-%C3%80-sucre</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_68d53f15573de.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>78.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1001133</g:id>
+    <g:title>Aavv, A Nova Poesia Brasileira</g:title>
+    <g:description>AAVV · A NOVA POESIA BRASILEIRA, Escritório de Propaganda e Expansão Comercial do Brasil em Lisboa, Lisboa, 1960.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/aavv-a-nova-poesia-brasileira</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_68e5982c2986b.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>25.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1003322</g:id>
+    <g:title>Marques, A. H. de Oliveira, A Sociedade Medieval Portuguesa</g:title>
+    <g:description>Marques, A. H. de Oliveira · A SOCIEDADE MEDIEVAL PORTUGUESA, Livraria Sá da Costa Editora, Lisboa, 1971.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/marques-a-h-de-oliveira-a-sociedade-medieval-portuguesa</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_68eae6f8f22f7.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>18.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-10033149</g:id>
+    <g:title>Rocha, Carlos Vieira da, Timor, Ocupação Japonesa Durante A Segunda Guerra Mundial</g:title>
+    <g:description>Rocha, Carlos Vieira da · TIMOR, OCUPAÇÃO JAPONESA DURANTE A SEGUNDA GUERRA MUNDIAL, Sociedade Histórica da Independência de Portugal, s.l., 1994.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/rocha-carlos-vieira-da-timor-ocupa%C3%87%C3%83o-japonesa-durante-a-segunda-guerra-mundial</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_68eae954a8e39.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>27.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1008679</g:id>
+    <g:title>Casimiro, Mário Portocarrero, Tripeiros da Gêma</g:title>
+    <g:description>Casimiro, Mário Portocarrero · TRIPEIROS DA GÊMA, “Latina” Livraria Editora, Pôrto, 1942.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/casimiro-m%C3%A1rio-portocarrero-tripeiros-da-g%C3%8Ama</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_68eaf483f064a.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>21.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1008656</g:id>
+    <g:title>Aavv, Cortes Portuguesas, Reinado de D. Afonso IV (1325-1357)</g:title>
+    <g:description>AAVV · CORTES PORTUGUESAS, REINADO DE D. AFONSO IV (1325-1357), Instituto Naccional de Investigação Científica, Lisboa, 1982.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/aavv-cortes-portuguesas-reinado-de-d-afonso-iv-1325-1357</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_68ed659138756.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>20.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1003691</g:id>
+    <g:title>Luján, Néstor/ Perucho, Juan, el Libro de la Cocina Española</g:title>
+    <g:description>Luján, Néstor/ Perucho, Juan · EL LIBRO DE LA COCINA ESPAÑOLA, Gastronomía e Historia, Tusquets Editores, Barcelona, 2005.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/luj%C3%A1n-n%C3%A9stor-perucho-juan-el-libro-de-la-cocina-espa%C3%91ola</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_68ef84979aa02.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>42.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1000685</g:id>
+    <g:title>Alorna, Marqueza d’, Obras Poeticas</g:title>
+    <g:description>Alorna, Marqueza d’ · OBRAS POETICAS de D. Leonor d’Almeida Portugal Lorena e Lencastre, Marqueza d’Alorna, Condessa d’Assumar, e d’Oeynhausen, conhecida entre os poetas pelo nome de Alcipe, 6 tt. em 3 v v., Imprensa Nacional, 1844.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/alorna-marqueza-d-obras-poeticas</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_68f55497df54d.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>342.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-100027</g:id>
+    <g:title>Seixo, Maria Alzira, para um Estudo da Expressão do Tempo no Romance Português Contemporâneo</g:title>
+    <g:description>Seixo, Maria Alzira · PARA UM ESTUDO DA EXPRESSÃO DO TEMPO NO ROMANCE PORTUGUÊS CONTEMPORÂNEO, Imprensa Nacional-Casa da Moeda, s.l., 1987.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/seixo-maria-alzira-para-um-estudo-da-express%C3%83o-do-tempo-no-romance-portugu%C3%8As-contempor%C3%82neo</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_68f8a62385db5.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>17.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1005723</g:id>
+    <g:title>Borges, Naír Odette da Câmara, Influência Anglo-americana no Falar da Ilha de S. Miguel (açores)</g:title>
+    <g:description>Borges, Naír Odette da Câmara · INFLUÊNCIA ANGLO-AMERICANA NO FALAR DA ILHA DE S. MIGUEL (AÇORES), Suplemento II da Revista Portuguesa de Filologia, Instituto de Estudos Românicos da Faculdade de Letras da Universidade de Coimbra, Coimbra, 1960.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/borges-na%C3%ADr-odette-da-c%C3%A2mara-influ%C3%8Ancia-anglo-americana-no-falar-da-ilha-de-s-miguel-a%C3%87ores</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_68f8a7e2b8e55.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>39.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1003223</g:id>
+    <g:title>Loureiro, Rui Manuel; Resende, Vasco (coords.), Estudos Sobre Don García de Silva Y Figueroa E os «comentarios» da Embaixada À Pérsia (1514-1624)</g:title>
+    <g:description>Loureiro, Rui Manuel; Resende, Vasco (coords.) · ESTUDOS SOBRE DON GARCÍA DE SILVA Y FIGUEROA E OS «COMENTARIOS» DA EMBAIXADA À PÉRSIA (1514-1624), vol. 4, Centro de História de Além-Mar (Faculdade de Ciências Sociais e Humanas, Universidade Nova de Lisboa), Universidade dos Açores, Lisboa, 2011.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/loureiro-rui-manuel-resende-vasco-coords-estudos-sobre-don-garc%C3%8Da-de-silva-y-figueroa-e-os-comentarios-da-embaixada-%C3%80-p%C3%89rsia-1514-1624</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6984d35283faa.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>23.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1003368</g:id>
+    <g:title>Sandoz, Maurice; Dali, Salvador, O Labirinto</g:title>
+    <g:description>Sandoz, Maurice; Dali, Salvador · O LABIRINTO, Editorial Organizações, Lisboa, 1956.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/sandoz-maurice-dali-salvador-o-labirinto</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_69ac8c771acc8.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>35.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-100691</g:id>
+    <g:title>Beires, Major Sarmento de, A Cidade do Sol</g:title>
+    <g:description>Beires, Major Sarmento de · A CIDADE DO SOL, Romance Metapsíquico, Livraria Clássica Editora, Lisboa, MCMXXVI [1926].</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/beires-major-sarmento-de-a-cidade-do-sol</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_69ac8ddc918d3.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>39.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1004747</g:id>
+    <g:title>Hergé, les Aventures de Tintin – le Secret de la Licorne</g:title>
+    <g:description>Hergé · LES AVENTURES DE TINTIN – LE SECRET DE LA LICORNE, Casterman, s.l., 2020.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/herg%C3%A9-les-aventures-de-tintin-le-secret-de-la-licorne</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_69af64646fe15.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>10.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1004746</g:id>
+    <g:title>Ségur, Condessa de/ Lowenthal, Jean-Claude, as Meninas Exemplares</g:title>
+    <g:description>Ségur, Condessa de/ Lowenthal, Jean-Claude · AS MENINAS EXEMPLARES, Difusão Verbo, s.l., 1979.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/s%C3%A9gur-condessa-de-lowenthal-jean-claude-as-meninas-exemplares</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_69af660e20c13.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>8.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-100213</g:id>
+    <g:title>Duarte, Sérgio Avelar, Ex-libris Portugueses Heráldicos</g:title>
+    <g:description>Duarte, Sérgio Avelar · EX-LIBRIS PORTUGUESES HERÁLDICOS, Livraria Civilização Editora, Porto, 1990.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/duarte-s%C3%A9rgio-avelar-ex-libris-portugueses-her%C3%81ldicos</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_69bc9fce2827b.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>105.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1005764</g:id>
+    <g:title>Gonçalves, Con. António, Missal dos Pequeninos</g:title>
+    <g:description>Gonçalves, Con. António · MISSAL DOS PEQUENINOS, Edições Alpha &amp; Omega, Lisboa, 1954.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/gon%C3%A7alves-con-ant%C3%B3nio-missal-dos-pequeninos</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_69c6a71025884.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>18.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1002410</g:id>
+    <g:title>Lobão, Carlos (org.), Filarmónicas do Faial</g:title>
+    <g:description>Lobão, Carlos  (org.) · FILARMÓNICAS DO FAIAL, Suplemento Fotográfico ao I Volume, Centro de Estudos e Cultura da Câmara Municipal da Horta, Horta, 1989.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/lob%C3%A3o-carlos-org-filarm%C3%93nicas-do-faial</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_69cff030ae2af.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>19.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-101237</g:id>
+    <g:title>Wilde, Oscar, the Happy Prince and other stories</g:title>
+    <g:description>Wilde, Oscar · THE HAPPY PRINCE and other stories, Wordsworth Editions, Ware, 1993.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/wilde-oscar-the-happy-prince-and-other-stories</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_69da7311018d8.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>8.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1007005</g:id>
+    <g:title>Saavedra, Miguel de Cervantes, el Ingenioso Hidalgo Don Quijote de la Mancha</g:title>
+    <g:description>Saavedra, Miguel de Cervantes · EL INGENIOSO HIDALGO DON QUIJOTE DE LA MANCHA, J. Perez del Hoyo, Madrid, s.d.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/saavedra-miguel-de-cervantes-el-ingenioso-hidalgo-don-quijote-de-la-mancha</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_69fcba71aef7d.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>28.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1003155</g:id>
+    <g:title>Azevedo, Domingos de, Grand Dictionnaire Contemporain Portugais-français</g:title>
+    <g:description>Azevedo, Domingos de · GRAND DICTIONNAIRE CONTEMPORAIN PORTUGAIS-FRANÇAIS Publié sur les auspices de Victor Hugo, Antonio Maria Pereira – Libraire – Éditeur, Lisbonne, 1889.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/azevedo-domingos-de-grand-dictionnaire-contemporain-portugais-fran%C3%87ais</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_69fcbce0472be.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>86.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-100L228</g:id>
+    <g:title>Camões/ Freitas, Lima de, os Lusíadas com Ilustrações de Lima de Freitas</g:title>
+    <g:description>Camões/ Freitas, Lima de · OS LUSÍADAS com Ilustrações de Lima de Freitas, Círculo de Leitores, s.l., 1972.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/cam%C3%B5es-freitas-lima-de-os-lus%C3%8Dadas-com-ilustra%C3%A7%C3%B5es-de-lima-de-freitas</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_69ff4a35c0d4f.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>14.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-100163b</g:id>
+    <g:title>Cidade, Hernani, Luís de Camões, II – O Épico</g:title>
+    <g:description>Cidade, Hernani · LUÍS DE CAMÕES, II – O ÉPICO, Revista da Faculdade de Letras, Lisboa, 1953.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/cidade-hernani-lu%C3%8Ds-de-cam%C3%95es-ii-o-%C3%89pico</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_69ff4cf15efe3.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>28.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1001134</g:id>
+    <g:title>Aavv, Natal.</g:title>
+    <g:description>AAVV · NATAL, s.e., s.l., s.d.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/aavv-natal</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6a171b8f4614b.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>15.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1001135</g:id>
+    <g:title>Aavv, Natal</g:title>
+    <g:description>AAVV · NATAL, Instituto Luso-Fármaco, s.l., 1968.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/aavv-natal-1</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6a171cd3b602f.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>11.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1006988</g:id>
+    <g:title>Lacroix, M. Desiré (rédacteur en chef), Cours D’arithmétique + Lempière, Georges, Cours D’algèbre</g:title>
+    <g:description>Lacroix, M. Desiré  (rédacteur en chef) · COURS D’ARITHMÉTIQUE Destiné aux élèves des divers établissements d’instruction primaire ou secondaire et, spécialement, aux jeunes gens voulant acquérir, seuls, des notions complètes sur la théorie du calcul, Henri Chairgrasse Fils et Cie., Gérants, Paris, s.d. · Lempière, Georges · COURS D’ALGÈBRE Destiné aux élèves des divers établissements d’instruction primaire ou secondaire et, spécialement, aux jeunes gens voulant acquérir, seuls, des notions élémentaires complètes sur cette science, E. Lainé et Cie., Administrateurs, Paris, s.d.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/lacroix-m-desir%C3%A9-r%C3%A9dacteur-en-chef-cours-d-arithm%C3%89tique-lempi%C3%A8re-georges-cours-d-alg%C3%88bre</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6a1dc16e547cf.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>59.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1000369</g:id>
+    <g:title>Sotto Maior, Eloy de Sá, Ribeiras do Mondego</g:title>
+    <g:description>Sotto Maior, Eloy de Sá · RIBEIRAS DO MONDEGO, Imprensa da Universidade, Coimbra, 1932.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/sotto-maior-eloy-de-s%C3%A1-ribeiras-do-mondego</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6a202e4535cb7.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>68.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-100280</g:id>
+    <g:title>A. anónimo, Everyman and Medieval Miracle Plays</g:title>
+    <g:description>A. anónimo · EVERYMAN AND MEDIEVAL MIRACLE PLAYS, Everyman J.M. Dent, London, 1997.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/a-an%C3%B3nimo-everyman-and-medieval-miracle-plays</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6a26d86749ebd.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>10.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1001335</g:id>
+    <g:title>Storck, Wilhelm, Vida E Obras de Luís de Camões</g:title>
+    <g:description>Storck, Wilhelm · VIDA E OBRAS DE LUÍS DE CAMÕES, Imprensa Nacional-Casa da Moeda, Lisboa, 1980.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/storck-wilhelm-vida-e-obras-de-lu%C3%8Ds-de-cam%C3%95es-1</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6a26dc36191e9.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>66.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1009366</g:id>
+    <g:title>Carré, John le, um Espião Perfeito</g:title>
+    <g:description>Carré, John le · UM ESPIÃO PERFEITO, Publicações D. Quixote, Lisboa, 1987.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/carr%C3%A9-john-le-um-espi%C3%83o-perfeito</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6a4005566ca42.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>12.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-102024</g:id>
+    <g:title>Castro, Ferreira de, A Selva</g:title>
+    <g:description>Castro, Ferreira de · A SELVA, Emprêsa Nacional de Publicidade, s.l., s.d.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/castro-ferreira-de-a-selva</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6a523863def3a.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>70.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1002531</g:id>
+    <g:title>Veríssimo, Erico, O Tempo E O Vento, O Continente</g:title>
+    <g:description>Veríssimo, Erico · O TEMPO E O VENTO, O Continente, Livros do Brasil, Lisboa, s.d.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/ver%C3%ADssimo-erico-o-tempo-e-o-vento-o-continente</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6a61f778df98b.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>15.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1002532</g:id>
+    <g:title>Veríssimo, Erico, O Tempo E O Vento, O Retrato</g:title>
+    <g:description>Veríssimo, Erico · O TEMPO E O VENTO, O Retrato, Livros do Brasil, Lisboa, s.d.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/ver%C3%ADssimo-erico-o-tempo-e-o-vento-o-retrato</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6a61f91f9f637.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>13.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-90B011</g:id>
+    <g:title>Verdi, Giuseppe, Ernani</g:title>
+    <g:description>Verdi, Giuseppe · ERNANI, Dramma lirico in quattro parti, Giovanni Ricordi, Milano, s.d.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/verdi-giuseppe-ernani</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6a63523c5ba9a.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>39.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1001170</g:id>
+    <g:title>Aavv (Baschet, René – directeur), L’ Illustration</g:title>
+    <g:description>AAVV  (Baschet, René – directeur) · L’ ILLUSTRATION Journal Hebdomadaire Universel, nº 4757, 5 Mai, Paris, 1934.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/aavv-baschet-ren%C3%A9-directeur-l-illustration</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6a6e1b7695f34.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>14.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1001171</g:id>
+    <g:title>Aavv (Baschet, René – directeur), L’ Illustration</g:title>
+    <g:description>AAVV  (Baschet, René – directeur) · L’ ILLUSTRATION Journal Hebdomadaire Universel, nº 4914, 4 Mai, Paris, 1937.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/aavv-baschet-ren%C3%A9-directeur-l-illustration-1</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6a6e1dde8b34c.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>14.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-100325</g:id>
+    <g:title>Silva, António et alii, Tele Culinária, vol. 1</g:title>
+    <g:description>Silva, António et alii · TELE CULINÁRIA, Revista semanal de cozinha e doçaria, vol. 1º, Liber – Editora e Publicidade Portugal-Brasil, Lisboa, 1977.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/silva-ant%C3%B3nio-et-alii-tele-culin%C3%81ria-vol-1</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6a6e205ce18d2.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>14.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>fot-09487</g:id>
+    <g:title>Fotografias desportivas (Basquete), anos 30</g:title>
+    <g:description>Fotografias de basquetebolistas (anos 30) originais de autoria desconhecida, todas de registos desportivos.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/fotografias-desportivas-basquete-anos-30</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6a762dffd99ca.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>25.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Arte</g:product_type>
+  </item>
+  <item>
+    <g:id>l-1005176</g:id>
+    <g:title>Buck, Pearl, para as Minhas Filhas com Amor</g:title>
+    <g:description>Buck, Pearl · PARA AS MINHAS FILHAS COM AMOR, Livros do Brasil, Lisboa, s.d.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/buck-pearl-para-as-minhas-filhas-com-amor</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6a89e8e44a8fe.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>8.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1005175</g:id>
+    <g:title>Flaubert, Gustave, A Educação Sentimental</g:title>
+    <g:description>Flaubert, Gustave · A EDUCAÇÃO SENTIMENTAL, Edições Melhoramentos/ Livros Horizonte, S. Paulo/ Lisboa, s.d.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/flaubert-gustave-a-educa%C3%87%C3%83o-sentimental</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6a89eb6793287.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>10.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1005178</g:id>
+    <g:title>Eco, Umberto, O Nome da Rosa</g:title>
+    <g:description>Eco, Umberto · O NOME DA ROSA, Difel – Difusão Editorial, Lisboa, 1984.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/eco-umberto-o-nome-da-rosa</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6a89eda75b7f7.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>13.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-100537</g:id>
+    <g:title>Samuel, Claude, Panorama da Arte Musical Contemporânea</g:title>
+    <g:description>Samuel, Claude · PANORAMA DA ARTE MUSICAL CONTEMPORÂNEA, Editorial Estúdios Cor, Lisboa, 1964.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/samuel-claude-panorama-da-arte-musical-contempor%C3%82nea</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6aabba39da6e8.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>34.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1005177</g:id>
+    <g:title>Kedros, André, uma Família de Atenas</g:title>
+    <g:description>Kedros, André · UMA FAMÍLIA DE ATENAS, Publicações Europa-América, Lisboa, 1959.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/kedros-andr%C3%A9-uma-fam%C3%8Dlia-de-atenas</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6ab68a6ce0849.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>11.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1009566</g:id>
+    <g:title>Casal, Adolfo Yañez, Antrolpologia E Desenvolvimento. as Aldeias Comunais de Moçambique</g:title>
+    <g:description>Casal, Adolfo Yañez · ANTROLPOLOGIA E DESENVOLVIMENTO. AS ALDEIAS COMUNAIS DE MOÇAMBIQUE, Instituto de Investigação Cientifica Tropical, Lisboa, 1996.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/casal-adolfo-ya%C3%B1ez-antrolpologia-e-desenvolvimento-as-aldeias-comunais-de-mo%C3%87ambique</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6abd407d64ab5.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>39.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1005711</g:id>
+    <g:title>Wicki S. J., José (ed.), O Livro do «pai dos Cristãos»</g:title>
+    <g:description>Wicki  S. J., José  (ed.) · O LIVRO DO «PAI DOS CRISTÃOS», Centro de Estudos Históricos Ultramarinos, Lisboa, 1969.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/wicki-s-j-jos%C3%A9-ed-o-livro-do-pai-dos-crist%C3%83os</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6abe331ab13f9.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>28.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>p-301105</g:id>
+    <g:title>Parcheminier (7)</g:title>
+    <g:description>Parcheminier (7), · Conj. de 7 gravuras s/ cobre</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/parcheminier-7</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6ad40559cd395.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>420.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Arte</g:product_type>
+  </item>
+  <item>
+    <g:id>l-1002619</g:id>
+    <g:title>Gil, Mª Blanca/ Mº Eugenia, la Primera Comunión de Pablito</g:title>
+    <g:description>Gil, Mª Blanca/ Mº Eugenia · LA PRIMERA COMUNIÓN DE PABLITO, Exclusivas Durve, s.l., 1958.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/gil-m%C2%AA-blanca-m%C2%BA-eugenia-la-primera-comuni%C3%93n-de-pablito</g:link>
+    <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6ad9d97d106fc.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>17.50 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1002339</g:id>
+    <g:title>Aavv (Marques, A. H. de Oliveira – coord.), A Revolução de 31 de Janeiro de 1891</g:title>
+    <g:description>AAVV (Marques, A. H. de Oliveira – coord.) · A REVOLUÇÃO DE 31 DE JANEIRO DE 1891, Biblioteca Nacional, Lisboa, 1991.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/aavv-marques-a-h-de-oliveira-coord-a-revolu%C3%87%C3%83o-de-31-de-janeiro-de-1891</g:link>
+    <g:image_link>https://images.cdn-files-a.com/uploads/5474177/800_6498509a08eac.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>10.50 EUR</g:price>
     <g:condition>used</g:condition>
     <g:identifier_exists>no</g:identifier_exists>
     <g:product_type>Livros</g:product_type>
