@@ -996,7 +996,7 @@
     <g:link>https://www.caramulocom.art/e-commerce/austin-j-l-how-to-do-things-with-words</g:link>
     <g:image_link>https://images.cdn-files-a.com/uploads/5474177/800_616b4ad2c8bd0.jpg</g:image_link>
     <g:availability>in_stock</g:availability>
-    <g:price>30.00 EUR</g:price>
+    <g:price>32.50 EUR</g:price>
     <g:condition>used</g:condition>
     <g:identifier_exists>no</g:identifier_exists>
     <g:product_type>Livros</g:product_type>
@@ -2530,7 +2530,7 @@
     <g:link>https://www.caramulocom.art/e-commerce/cal-ernesto-guerra-da-linguagem-e-estilo-em-e%C3%87a-de-queiroz</g:link>
     <g:image_link>https://images.cdn-files-a.com/uploads/5474177/800_61b2a237b308a.jpg</g:image_link>
     <g:availability>in_stock</g:availability>
-    <g:price>42.00 EUR</g:price>
+    <g:price>40.00 EUR</g:price>
     <g:condition>used</g:condition>
     <g:identifier_exists>no</g:identifier_exists>
     <g:product_type>Livros</g:product_type>
@@ -7488,7 +7488,7 @@
     <g:link>https://www.caramulocom.art/e-commerce/neves-joaquim-pacheco-o-mosteiro-de-santa-clara-de-vila-do-conde</g:link>
     <g:image_link>https://images.cdn-files-a.com/uploads/5474177/800_62d84991b5775.jpg</g:image_link>
     <g:availability>in_stock</g:availability>
-    <g:price>34.00 EUR</g:price>
+    <g:price>47.00 EUR</g:price>
     <g:condition>used</g:condition>
     <g:identifier_exists>no</g:identifier_exists>
     <g:product_type>Livros</g:product_type>
@@ -8702,7 +8702,7 @@
     <g:link>https://www.caramulocom.art/e-commerce/freitas-eug%C3%A9nio-andrea-da-cunha-e-uma-obra-de-nasoni-desconhecida-as-festas-de-canoniza%C3%87%C3%83o-de-s-jo%C3%83o-da-cruz-na-igreja-do-carmo</g:link>
     <g:image_link>https://images.cdn-files-a.com/uploads/5474177/800_63305b5e62f7b.jpg</g:image_link>
     <g:availability>in_stock</g:availability>
-    <g:price>9.00 EUR</g:price>
+    <g:price>9.50 EUR</g:price>
     <g:condition>used</g:condition>
     <g:identifier_exists>no</g:identifier_exists>
     <g:product_type>Livros</g:product_type>
@@ -8728,7 +8728,7 @@
     <g:link>https://www.caramulocom.art/e-commerce/freitas-eug%C3%A9nio-andrea-da-cunha-e-artistas-de-braga-na-matriz-de-vila-do-conde-subs%C3%8Ddios-para-uma-monografia-de-vila-do-conde</g:link>
     <g:image_link>https://images.cdn-files-a.com/uploads/5474177/800_6330620cd547a.jpg</g:image_link>
     <g:availability>in_stock</g:availability>
-    <g:price>6.50 EUR</g:price>
+    <g:price>7.00 EUR</g:price>
     <g:condition>used</g:condition>
     <g:identifier_exists>no</g:identifier_exists>
     <g:product_type>Livros</g:product_type>
@@ -10773,7 +10773,7 @@
     <g:link>https://www.caramulocom.art/e-commerce/arrais-frei-amador-di%C3%81logos-de-d-frei-amador-arrais</g:link>
     <g:image_link>https://images.cdn-files-a.com/uploads/5474177/800_641c6212c7d57.jpg</g:image_link>
     <g:availability>in_stock</g:availability>
-    <g:price>40.00 EUR</g:price>
+    <g:price>47.00 EUR</g:price>
     <g:condition>used</g:condition>
     <g:identifier_exists>no</g:identifier_exists>
     <g:product_type>Livros</g:product_type>
@@ -11072,6 +11072,19 @@
     <g:image_link>https://images.cdn-files-a.com/uploads/5474177/800_64984dcaa1fe9.jpg</g:image_link>
     <g:availability>in_stock</g:availability>
     <g:price>10.00 EUR</g:price>
+    <g:condition>used</g:condition>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>Livros</g:product_type>
+    <g:google_product_category>784</g:google_product_category>
+  </item>
+  <item>
+    <g:id>l-1002339</g:id>
+    <g:title>Aavv (Marques, A. H. de Oliveira – coord.), A Revolução de 31 de Janeiro de 1891</g:title>
+    <g:description>AAVV (Marques, A. H. de Oliveira – coord.) · A REVOLUÇÃO DE 31 DE JANEIRO DE 1891, Biblioteca Nacional, Lisboa, 1991.</g:description>
+    <g:link>https://www.caramulocom.art/e-commerce/aavv-marques-a-h-de-oliveira-coord-a-revolu%C3%87%C3%83o-de-31-de-janeiro-de-1891</g:link>
+    <g:image_link>https://images.cdn-files-a.com/uploads/5474177/800_6498509a08eac.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>10.50 EUR</g:price>
     <g:condition>used</g:condition>
     <g:identifier_exists>no</g:identifier_exists>
     <g:product_type>Livros</g:product_type>
@@ -13291,19 +13304,6 @@
     <g:image_link>https://files.cdn-files-a.com/uploads/5474177/800_6ad9d97d106fc.jpg</g:image_link>
     <g:availability>in_stock</g:availability>
     <g:price>17.50 EUR</g:price>
-    <g:condition>used</g:condition>
-    <g:identifier_exists>no</g:identifier_exists>
-    <g:product_type>Livros</g:product_type>
-    <g:google_product_category>784</g:google_product_category>
-  </item>
-  <item>
-    <g:id>l-1002339</g:id>
-    <g:title>Aavv (Marques, A. H. de Oliveira – coord.), A Revolução de 31 de Janeiro de 1891</g:title>
-    <g:description>AAVV (Marques, A. H. de Oliveira – coord.) · A REVOLUÇÃO DE 31 DE JANEIRO DE 1891, Biblioteca Nacional, Lisboa, 1991.</g:description>
-    <g:link>https://www.caramulocom.art/e-commerce/aavv-marques-a-h-de-oliveira-coord-a-revolu%C3%87%C3%83o-de-31-de-janeiro-de-1891</g:link>
-    <g:image_link>https://images.cdn-files-a.com/uploads/5474177/800_6498509a08eac.jpg</g:image_link>
-    <g:availability>in_stock</g:availability>
-    <g:price>10.50 EUR</g:price>
     <g:condition>used</g:condition>
     <g:identifier_exists>no</g:identifier_exists>
     <g:product_type>Livros</g:product_type>
